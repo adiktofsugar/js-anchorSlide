@@ -1,14 +1,15 @@
-<h1>Ridicuously simple.</h1>
+Ridicuously simple.
 
 This is just a plugin for a jquery that slides to anchors...I 
 just get tired of remaking it all the time, and this will probably be 
 more bug free has time goes on...hehe.
 
 USAGE:
+-----
 
-$('A').anchorSlide({
-	topOffset : -90
-});
+	$('A').anchorSlide({
+		topOffset : -90
+	});
 
 The options are in the source...and could change. But at the time of writing there are two.
 
